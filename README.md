@@ -1,3 +1,2 @@
-# Convolutional Neural Network - dataset NMIST
+# Convolutional Neural Network
 Dataset NMIST
-KERAS
